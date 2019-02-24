@@ -12,6 +12,7 @@ In my cause i I had to draw someone like this:
 
 Maybe you too.
 
+So, let's think! 
 How does Sweep Gradient works?
 If you draw rect via this:
 
