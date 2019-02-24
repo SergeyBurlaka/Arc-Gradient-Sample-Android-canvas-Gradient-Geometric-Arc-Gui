@@ -23,7 +23,7 @@ It will be:
 
 [![enter image description here][1]][1]
 
-So the idea is to rotate graient!
+So the idea is to rotate it!
 ```kotlin
      sweepGradient.apply {
                 val rotate = 270f
