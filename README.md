@@ -1,7 +1,8 @@
 # Arc-Gradient-Sample-Android-canvas-Gradient-Geometric-Arc-Gui
 
 
-![](https://github.com/SergeyBurlaka/Arc-Gradient-Sample-Android-canvas-Gradient-Geometric-Arc-Gui/blob/master/app/src/art/Screenshot_1551012440.png)
+
+<img src="https://github.com/SergeyBurlaka/Arc-Gradient-Sample-Android-canvas-Gradient-Geometric-Arc-Gui/blob/master/app/src/art/Screenshot_1551012440.png" height="6000" alt="Screenshot"/>
 
 How does Sweep Gradient works?
 If you draw rect via this:
