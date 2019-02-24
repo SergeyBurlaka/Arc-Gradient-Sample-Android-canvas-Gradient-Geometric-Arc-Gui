@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#474747</color>
+    <color name="colorPrimaryDark">#474747</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="progress_from_color">#FFC6C6</color>
+    <color name="progress_to_color">#FFFF2323</color>
+</resources>
