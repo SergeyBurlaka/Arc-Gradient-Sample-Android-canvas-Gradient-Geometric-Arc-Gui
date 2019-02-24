@@ -4,7 +4,7 @@
 
 <img src="https://github.com/SergeyBurlaka/Arc-Gradient-Sample-Android-canvas-Gradient-Geometric-Arc-Gui/blob/master/app/src/art/Screenshot_1551012440.png" height="600" alt="Screenshot"/>
 
-#describe
+## describing
 
 In my cause i I had to draw someone like this:
 
